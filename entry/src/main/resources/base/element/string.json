@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "便民出行快捷助手模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "主导航能力"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "便民出行助手"
+    },
+    {
+      "name": "favorites_ability_desc",
+      "value": "收藏路线管理"
+    },
+    {
+      "name": "favorites_ability_label",
+      "value": "路线收藏"
+    },
+    {
+      "name": "distributed_datasync_reason",
+      "value": "用于在多设备间同步您的出行数据，实现路线规划跨设备协同"
+    }
+  ]
+}

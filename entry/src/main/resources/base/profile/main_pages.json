@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RouteSearch",
+    "pages/StationSearch",
+    "pages/ArrivalPrediction",
+    "pages/Favorites",
+    "pages/Reminder",
+    "pages/Settings"
+  ]
+}
